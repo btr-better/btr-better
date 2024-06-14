@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently the CTO of Spoors
+- Working on an iOS app in SwiftUI and the Composable Architecture (TCA)
+
 <!--
 **btr-better/btr-better** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
